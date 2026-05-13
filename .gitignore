@@ -1,0 +1,32 @@
+# 数据文件
+*.csv
+*.h5
+*.pth
+
+# 日志文件
+*.log
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+.Python
+
+# 环境配置
+.env
+venv/
+.env/
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# 模型文件
+models/
+checkpoints/
+
+# 结果文件（保留 submission.csv）
+results/*.csv
+!results/submission.csv
