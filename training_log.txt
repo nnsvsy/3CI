@@ -1,0 +1,6 @@
+PyTorch version: 2.7.1+cu118
+Using device: cpu
+Loading data...
+Train shape: (42000, 785)
+Test shape: (28000, 784)
+Training set: (37800, 1, 28, 28), Validation set: (4200, 1, 28, 28)

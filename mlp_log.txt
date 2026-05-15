@@ -1,0 +1,22 @@
+==================================================
+Script starting...
+Loading data...
+Train: (42000, 785), Test: (28000, 784)
+Training: (37800, 784), Validation: (4200, 784)
+Training MLP (512-256-128)...
+Validation Accuracy: 0.9810 (98.10%)
+Predicting...
+Submission saved!
+Predictions:
+   ImageId  Label
+0        1      2
+1        2      0
+2        3      9
+3        4      9
+4        5      3
+5        6      7
+6        7      0
+7        8      3
+8        9      0
+9       10      3
+DONE!
